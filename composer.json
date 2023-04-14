@@ -1,4 +1,12 @@
 {
+    "name": "alehlipka/slim-4-lalaver",
+    "description": "Slim 4 framework",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Aleh Lipka"
+        }
+    ],
     "require": {
         "slim/slim": "4.*",
         "slim/psr7": "^1.6",
