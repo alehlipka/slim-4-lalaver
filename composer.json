@@ -19,7 +19,9 @@
         "illuminate/support": "^8.0",
         "illuminate/database": "^8.0",
         "zeuxisoo/slim-whoops": "^0.7.3",
-        "vlucas/phpdotenv": "^5.5"
+        "vlucas/phpdotenv": "^5.5",
+        "robmorgan/phinx": "^0.13",
+        "fakerphp/faker": "^v1.21.0"
     },
     "license": "GPL-3.0-or-later",
     "autoload": {
